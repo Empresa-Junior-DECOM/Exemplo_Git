@@ -6,6 +6,7 @@ public class Exemplo_git {
 		System.out.println("Olá, git");
 		// Alterado no Git
 		// Alterado no Eclipse
+		// Alterado no Eclipse2
 	}
 
 }
