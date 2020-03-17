@@ -7,6 +7,7 @@ public class Exemplo_git {
 		// Alterado no Git
 		// Alterado no Eclipse
 		// Alterado no Eclipse2
+		// Alterado no Git 2
 	}
 
 }
